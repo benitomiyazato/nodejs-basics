@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benitomiyazato/nodejs-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benitomiyazato/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/benitomiyazato/nodejs-basics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

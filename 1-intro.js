@@ -4,3 +4,4 @@ if (amount < 10) {
 } else {
   console.log("Large number");
 }
+
